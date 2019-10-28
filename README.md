@@ -12,3 +12,7 @@ The evolution of the temperature in the midplane of the protoplanetary disc as a
 ![Screenshot](/plots/temperature.png)
 
 ### Evolution of dust surface density
+Top: Shows the evolution for particles with radius a = 10-2 cm
+Bottom: Shows the evolution for particles with radius a = 10-4 cm
+
+![Screenshot](/plots/dust_dyn_evo.png)
