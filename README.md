@@ -25,4 +25,6 @@ Bottom: Shows the evolution for particles with radius a = 10-4 cm
 ![Screenshot](/plots/vertical.png)
 ![Screenshot](/plots/rel_all.png)
 
-
+### The evolution of the particle size distribution
+![Screenshot](/plots/dust_dist.png)
+![Screenshot](/plots/dust_dist2.png)
