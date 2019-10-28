@@ -6,8 +6,8 @@ disc which all are infuences that the grains are exposed to on their path to bec
 
 ## Dust dynamics 
 
-# Temperature evolution
+### Temperature evolution
 The evolution of the temperature in the midplane of the protoplanetary disc as a function of the distance r from the central star.
 ![Screenshot](/plots/temperature.png)
 
-# Evolution of dust surface density
+### Evolution of dust surface density
