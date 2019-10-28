@@ -18,3 +18,11 @@ Bottom: Shows the evolution for particles with radius a = 10-4 cm
 ![Screenshot](/plots/dust_dyn_evo.png)
 
 ## Dust processes
+![Screenshot](/plots/azi.png)
+![Screenshot](/plots/brownian.png)
+![Screenshot](/plots/radial_drift.png)
+![Screenshot](/plots/turbulence.png)
+![Screenshot](/plots/vertical.png)
+![Screenshot](/plots/rel_all.png)
+
+
