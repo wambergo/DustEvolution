@@ -16,3 +16,5 @@ Top: Shows the evolution for particles with radius a = 10-2 cm
 Bottom: Shows the evolution for particles with radius a = 10-4 cm
 
 ![Screenshot](/plots/dust_dyn_evo.png)
+
+## Dust processes
