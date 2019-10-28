@@ -81,14 +81,14 @@ def temp_funktion(r,int_plot=True, tmid_plot=True, one_particle_size=True):
                                                                                                     
     if int_plot:
         plt.figure()
-        plt.title("Rosseland gns. dust opacities")
+        plt.title("Rosseland avr dust opacities")
         plt.xlabel("Temperatur [K]")
         plt.ylabel(r'$\rho_g \quad [g/cm^3] $')
         plt.pcolor(T_gitterR, rho_gitterR, kappa_approxR,cmap='RdGy')
         plt.colorbar(label='$\kappa_R \quad [cm^2/g]$')
         plt.show()
         plt.figure()
-        plt.title("Planck gns. dust opacities")
+        plt.title("Planck avr dust opacities")
         plt.xlabel("Temperatur [K]")
         plt.ylabel(r'$\rho_g \quad [g/cm^3] $')
         plt.pcolor(T_gitterP, rho_gitterP, kappa_approxP,cmap='RdGy')
